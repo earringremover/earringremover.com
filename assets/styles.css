@@ -1,5 +1,8 @@
 :root{
-  --bg:#ffffff;
+  --bg: linear-gradient(
+    180deg,
+    #fdf2f8 0%,   /* very light pink */
+    #f0fdf4 100%  /* very light green */
   --text:#111827;
   --muted:#6b7280;
   --line:#e5e7eb;
@@ -7,6 +10,7 @@
   --max: 860px;
   --radius: 12px;
 }
+
 
 *{ box-sizing:border-box; }
 html{ scroll-behavior:smooth; }
