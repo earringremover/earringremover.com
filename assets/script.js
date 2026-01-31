@@ -1,4 +1,3 @@
-\
 (function () {
   const btn = document.querySelector('[data-menu-button]');
   const nav = document.querySelector('[data-nav]');
