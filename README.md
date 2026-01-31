@@ -1,4 +1,3 @@
-\
 # earringremover.com
 
 Static marketing website for the **ez-Release earring remover**.
